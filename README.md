@@ -1,5 +1,6 @@
 # Coursera-Project
 
+
 ## The Project Scenario:
 
 In this project, you will step into the shoes of an entry-level data analyst at a social media agency, helping to create a comprehensive report that analyzes the performance of different categories of social media posts.
@@ -8,11 +9,13 @@ Suppose you work for a social media marketing company that specializes in promot
 
 They want you to use Python to automatically extract tweets posted from one or more categories, and to clean, analyze and visualize the data. The team will use your analysis to make data-driven recommendations to clients to improve their social media performance. This feature will help the marketing agency deliver tweets on time, within budget, and gain fast results.
 
+
 ## Project Objectives :
 
 Increase client reach and engagement.
 Gain valuable insights that will help improve social media performance.
 Achieve their social media goals and provide data-driven recommendations.
+
 
 ## Your Challenge:
 
@@ -22,13 +25,19 @@ In this project, we'll use data from Twitter; however, to keep this project uniq
 
 After you perform your analysis, you will share your findings.
 
+
 ## See Example Projects:
 
-Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python<br>
-A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
-Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook<br>
-A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
-Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
+- Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python<br>
+
+- A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
+
+- Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook<br>
+
+- A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
+
+- Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
+
 
 ## Check out these helpful resources:
 
