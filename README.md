@@ -27,14 +27,15 @@ After you perform your analysis, you will share your findings.
 Exploratory Data Analysis with Python: https://www.kaggle.com/code/fazilbtopal/exploratory-data-analysis-with-python<br>
 A Simple Tutorial on Exploratory Data Analysis: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
 Detailed exploratory data analysis with python: https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python/notebook<br>
-A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis
-Check out these helpful resources:
+A Simple Tutorial on Exploratory Data Analysis Python · House Prices - Advanced Regression Techniques: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
+Exploratory Data Analysis with Python Python · 1985 Automobile Dataset: https://www.kaggle.com/code/spscientist/a-simple-tutorial-on-exploratory-data-analysis<br>
 
-Matplotlib tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html
+## Check out these helpful resources:
 
-Seaborn examples: https://seaborn.pydata.org/examples/index.html
+Matplotlib tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html<br>
 
-NumPy tutorial: https://numpy.org/doc/stable/user/quickstart.html
+Seaborn examples: https://seaborn.pydata.org/examples/index.html<br>
 
-Pandas user guide: https://pandas.pydata.org/docs/user_guide/10min.html
+NumPy tutorial: https://numpy.org/doc/stable/user/quickstart.html<br>
+
+Pandas user guide: https://pandas.pydata.org/docs/user_guide/10min.html<br>
